@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "start": "node server.js",
-  "test": "jest"
-}
-,
+    "start": "node server.js",
+    "test": "npx jest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
